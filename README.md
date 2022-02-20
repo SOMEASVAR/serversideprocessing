@@ -24,11 +24,6 @@ Use views.py to execute the coding in serverside.
 ### Step 5:
 Publish the website in the given URL.
 
-
-### Step 6:
-
-Publish the website in the given URL.
-
 ## PROGRAM :
 
 ## Volume.html:
