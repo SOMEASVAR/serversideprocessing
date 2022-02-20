@@ -18,7 +18,7 @@ Use views.py to execute the coding in serverside.
 
 
 ### Step 4:
-Use views.py to execute the coding in serverside.
+Mention the path of the website in urls.py.
 
 
 ### Step 5:
